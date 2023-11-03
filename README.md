@@ -1,4 +1,4 @@
-# Linear-Regression
+# Logistic-Regression
 
 PROJECT BASED ON LOGISTIC REGRESSION
 In this project, we are using an advertising dataset.
